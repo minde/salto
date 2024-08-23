@@ -24,7 +24,7 @@
     "require": {
         "php": ">=8.0",
         "ext-sockets": "*",
-        "nesbot/carbon": "*"
+        "nesbot/carbon": ">=3.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.3",
