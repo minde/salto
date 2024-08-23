@@ -4,14 +4,14 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/rohsyl/salto.svg?style=flat-square)](https://packagist.org/packages/rohsyl/salto)
 
 
-A PHP Salto client implementing the PMS Industry Standard protocol via TCP/IP.
+A PHP Salto client implementing the PMS Industry Standard protocol via TCP/IP. Forked from: https://github.com/coucounco/salto
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require rohsyl/salto
+composer require minde/salto-ship
 ```
 
 ## Usage
