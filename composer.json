@@ -1,17 +1,23 @@
 {
-    "name": "coucounco/salto",
-    "description": "A PHP Salto client implementing the PMS Industry Standard protocol via TCP/IP.",
+    "name": "minde/salto-ship",
+    "description": "A PHP Salto client implementing the PMS Industry Standard protocol via TCP/IP",
     "keywords": [
         "salto",
         "php"
     ],
-    "homepage": "https://github.com/rohsyl/salto",
+    "homepage": "https://github.com/minde/salto-ship",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sylvain Roh",
+            "name": "Original: Sylvain Roh",
             "email": "syzin12@gmail.com",
             "homepage": "https://rohs.ch",
+            "role": "Developer"
+        },
+        {
+            "name": "Mindaugas Norvilas",
+            "email": "mindaugas@norvilai.lt",
+            "homepage": "https://github.com/minde",
             "role": "Developer"
         }
     ],
