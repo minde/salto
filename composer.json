@@ -30,6 +30,7 @@
         "symfony/var-dumper": "^4.3",
         "phpunit/phpunit": "^8.2"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "rohsyl\\Salto\\": "src"
